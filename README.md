@@ -10,11 +10,11 @@ This is the official repository for CellApop.
 Download the [sam weight](https://github.com/facebookresearch/segment-anything?tab=readme-ov-file#model-checkpoints) and place it at e.g.,``checkpoint/sam/sam_vit_b_01ec64.pth``
 
 Processed the datasets with Cellpose, Mesmer, and CelloType and generated pseudo-labels via PixelVoting. 
-### train
+### Train
 ```bash
 python pre-train.py
 ```
-## fine-tune
+## Fine-tune
 ### Data preprocessing
 get your dataset and mask with [labelme](https://github.com/wkentaro/labelme)
 ### train
