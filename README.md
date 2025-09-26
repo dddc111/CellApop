@@ -24,5 +24,5 @@ python fine-tune.py
 ## Acknowledgements
 - We thank Meta AI for making the source code of [segment anything](https://github.com/facebookresearch/segment-anything) publicly available.
 - We thank MouseLand for making the source code of [cellpose](https://github.com/MouseLand/cellpose) publicly available.
-- We thank MESMER-group for making the source code of [mesmer](https://github.com/MESMER-group/mesmer) publicly available.
+- We thank vanvalenlab for making the source code of [mesmer](https://github.com/vanvalenlab/cellSAM) publicly available.
 - We thank tanlabcode for making the source code of [cellotype](https://github.com/tanlabcode/CelloType) publicly available.
