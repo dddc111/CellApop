@@ -8,7 +8,7 @@ This is the official repository for CellApop.
 ## Pre-train
 ### Data preprocessing
 Processed the datasets with Cellpose, Mesmer, and CelloType and generated pseudo-labels via PixelVoting. 
-Download the [Weight](https://pan.baidu.com/s/1MPUseSVNl3afR_Vd5yVyHA?pwd=APOP)
+Download the [Weight](https://pan.baidu.com/s/1HFWq6qXe1-6t_q1mI3nP_A)
 ### train
 ```bash
 python pre-train.py
